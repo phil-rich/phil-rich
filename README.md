@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **phil-rich/phil-rich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Phil Richardson</h1>
 <h3 align="center">An AWS beginner</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: pr26304304@gmail.com</h3>
 <p align="left">
 </p>
